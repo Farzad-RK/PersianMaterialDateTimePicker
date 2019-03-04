@@ -18,8 +18,8 @@
 
     <!-- Label for button to confirm chosen date or time [CHAR LIMIT=30] -->
     <string name="mdtp_done_label" msgid="7007948707597430919">"انجام شد"</string>
-    <string name="mdtp_ok">تایید</string>
-    <string name="mdtp_cancel">بیخیال</string>
+    <string name="mdtp_ok">قبول</string>
+    <string name="mdtp_cancel">الغاء</string>
     <!--
          Content description for the hour selector in the time picker, which displays
          selectable hours of the day along the inside edge of a circle, as in an analog clock.
@@ -70,6 +70,6 @@
 
     <!-- DO NOT TRANSLATE -->
     <string name="mdtp_day_of_week_label_typeface" translatable="false">sans-serif</string>
-    <string name="am_label">قبل‌ازظهر</string>
-    <string name="pm_label">بعدازظهر</string>
+    <string name="am_label">صباحا</string>
+    <string name="pm_label">عصرا</string>
 </resources>
